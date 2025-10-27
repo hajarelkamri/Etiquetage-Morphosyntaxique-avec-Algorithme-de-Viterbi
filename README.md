@@ -39,6 +39,3 @@ Le modèle est évalué sur :
 - **Tests manuels** avec phrases personnalisées
 
 
-import numpy as np
-import math
-from collections import defaultdict
